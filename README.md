@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 ## GitHub Stats
 
-![Gamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamz-szn&show_icons=true&theme=radical)
+![Gamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamzeSozen&show_icons=true&theme=radical)
 
 ## Connect with Me
 
